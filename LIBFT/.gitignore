@@ -1,0 +1,7 @@
+*.o
+*.a
+*.out
+libftTester-master
+libft-war-machine-master
+libftTester-master/*
+libft-war-machine-master/*
